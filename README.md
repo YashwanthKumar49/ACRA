@@ -10,8 +10,8 @@ Repository for a deep learning project "Automated Chest Radiograph Analyser", Th
 ##### ->Keras
 
 
-## Work as a Team
-##### _EACH TEAM MEMBER MUST CLONE THE PROJECT — DO NOT FORK IT!_
+
+
 
 
 ## Adding a new feature
